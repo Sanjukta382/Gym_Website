@@ -6,6 +6,7 @@ margin: 0px;
 padding: 0px;
 background: url('bg.jpg');
 background-size: 100%;
+background-repeat: none;    
 }
 
 .left{
